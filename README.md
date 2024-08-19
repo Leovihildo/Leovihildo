@@ -1,4 +1,4 @@
-👋 Hi, I’m @Leovihildo!  
+👋 Hi, my name is Joshua Johnson.
 👀 Passionate about **web development** and **creative design**.  
 🎓 Recent **Computer Science graduate** with a strong foundation in **frontend development** and **graphic design**.  
 💻 Skilled in **HTML**, **CSS**, **JavaScript**, **React**, and **jQuery**, with a keen eye for **UI/UX design**.  
