@@ -1,10 +1,25 @@
-👋 Hi, my name is Joshua Johnson.  
-👀 Passionate about **web development** and **creative design**.  
-🎓 Recent **Computer Science graduate** with a strong foundation in **frontend development** and **graphic design**.  
-💻 Skilled in **HTML**, **CSS**, **JavaScript**, **React**, and **jQuery**, with a keen eye for **UI/UX design**.  
-🌱 Continuously learning and exploring the latest trends in web technologies.  
-💞️ Open to collaborating on innovative projects that challenge my skills and creativity.  
-📫 Connect with me through my mail Johnsonp.joshua@yahoo.com.
+# Hi, I'm Joshua Johnson 👋
+
+🚀 ## **Frontend Developer & Software Engineer** passionate about building exceptional web experiences
+
+💻 **Tech Stack:** JavaScript, React, HTML5, CSS3, jQuery, PHP, WordPress
+🎨 **Design Tools:** Figma, Canva, UI/UX Design
+🔧 **Specialties:** Responsive web development, cross-browser compatibility, performance optimization
+
+🌟 ## **Recent Projects:**
+- Built user-friendly applications that increased session duration by 20%
+- Developed responsive, conversion-focused web solutions
+- Created seamless user experiences across 13+ device types
+
+🎓 Computer Science Graduate | University of Ibadan
+📈 Always learning and staying current with web development trends
+🤝 Open to collaborating on innovative web projects
+
+🌐 **Portfolio:** https://leovihildo.github.io/thewebdev/
+📧 **Contact:** Johnsonp.joshua@yahoo.com
+💼 **LinkedIn:** www.linkedin.com/in/joshua-johnson-46a06823b
+
+*Let's build something amazing together!*
 
 <!---
 Leovihildo/Leovihildo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
