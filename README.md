@@ -1,12 +1,12 @@
 # Hi, I'm Joshua Johnson 👋
 
-🚀 ## **Frontend Developer & Software Engineer** passionate about building exceptional web experiences
+## 🚀  Software Engineer | Frontend Developer
 
 💻 **Tech Stack:** JavaScript, React, HTML5, CSS3, jQuery, PHP, WordPress
 🎨 **Design Tools:** Figma, Canva, UI/UX Design
 🔧 **Specialties:** Responsive web development, cross-browser compatibility, performance optimization
 
-🌟 ## **Recent Projects:**
+## 🌟Recent Projects
 - Built user-friendly applications that increased session duration by 20%
 - Developed responsive, conversion-focused web solutions
 - Created seamless user experiences across 13+ device types
